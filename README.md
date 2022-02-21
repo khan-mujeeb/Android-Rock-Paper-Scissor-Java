@@ -22,5 +22,11 @@ In rock-paper-scissors, two players will each randomly choose one of three hand 
 <img src = "https://user-images.githubusercontent.com/89351750/154979771-274c9023-5a75-4a72-b4f6-2587fd266d47.jpeg" height = "450" width = "450" >
 
 ## Rules
+- Both players show their signs at the same time to see who will win
+- Here are the rules that determine which sign beats another:  
+  * Rock wins over scissors (because rock smashes scissors)
+  * Paper wins over rock (because paper covers rock)
+  * Scissors wins over paper (because scissors cut paper)
+  
 <img src = "https://user-images.githubusercontent.com/89351750/154981514-23252549-ab55-40be-991c-98a58d2f03a0.jpeg" height = "450" width = "450" >
 
